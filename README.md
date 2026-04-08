@@ -42,8 +42,8 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos através de có
 ### 📈 Estatísticas do GitHub
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josuelb&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuelb&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josuelb&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josuelb&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
