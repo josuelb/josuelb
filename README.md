@@ -1,16 +1,16 @@
 # Olá, eu sou o Josué Luiz! 👋
 
-### 👨‍💻 Desenvolvedor Full Stack Senior | Especialista em IA Generativa & Automação
+### 👨‍💻 Senior Software Engineer & Tech Lead | Especialista em Python, Java & IA Generativa
 
-Sou um desenvolvedor apaixonado por resolver problemas complexos através de código limpo e soluções inteligentes. Com mais de **6 anos de estrada**, transito com naturalidade entre o **Backend (Python/PHP)** e o **Frontend (React/Vue)**, com foco especial na integração de **Inteligência Artificial Humanizada** e sistemas escaláveis.
+Sou um engenheiro de software apaixonado por resolver problemas complexos através de código limpo, arquiteturas robustas e soluções inteligentes. Com **7 anos de experiência** no ecossistema de desenvolvimento, atuo na construção de sistemas críticos e escaláveis, transitando com maestria pelo **Backend (Python, Java e PHP)** e **Frontend (React/Vue)**. Meu foco principal é a integração de **Inteligência Artificial Humanizada**, LLMs e automações de alta performance para gerar impacto real de negócio.
 
 ---
 
 ### 🚀 O que eu faço?
-- 🤖 **IA & Avatares:** Desenvolvimento de sistemas com avatares digitais e IA generativa para treinamentos e call streaming.
-- ⚡ **Backend & APIs:** Especialista em APIs de alta performance com FastAPI e Django.
-- 🎨 **Frontend:** Criação de SPAs modernas e responsivas.
-- 🏗️ **Infra & DevOps:** Gerenciamento de containers e orquestração (Docker/Kubernetes).
+- 🤖 **IA & Automação:** Engenharia de soluções com IA Generativa, desenvolvimento de agentes autônomos, chatbots humanizados e pipelines de Text-to-Speech (Whisper, HeyGen).
+- ⚡ **Backend de Alta Performance:** Especialista na criação de APIs RESTful robustas, orquestração de microsserviços e controle de alto tráfego utilizando **Python (FastAPI, Django)** e **Java (Spring Boot)**.
+- 🎨 **Frontend Full Stack:** Construção de interfaces dinâmicas, responsivas e orientadas à melhor experiência do usuário (React, Vue.js).
+- 🏗️ **Infra & DevSecOps:** Gerenciamento de containers (Docker/Kubernetes), proxy reverso, modelagem de dados e implementação de práticas sólidas de segurança corporativa.
 
 ---
 
@@ -18,6 +18,8 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos através de có
 
 **Backend & IA**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -28,11 +30,13 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos através de có
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 **Banco de Dados & Infra**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
